@@ -61,7 +61,23 @@ a Stance. They may may describe more specific forms of authority,
 and to whom this authority is designated. All authorities given may
 only be used to carry out the Stance's goal.
 
-## Ratification of  Stance
+## Ratification of Stances
+
+For a Stance to be bound in the Tomes of Stances, it must first be ratified.
+A chairman that has been granted jurisdiction over a field may 
+present a Stance from that field. They are responsibile for documenting
+the Stance and presenting it to the Board.
+
+Once presented, the Stance will be voted on. If the Stance is a Guild Stance,
+all the Guild has the right to vote. If the Stance is a Board Stance,
+all of the Board has the right to vote. The Chairman does not vote on their own Stance.
+A Stance needs a majority of the vote to pass. If the votes are equal,
+the presenting Chairman will break the tie. 
+
+If a Stance is brought up under the jusrisdiction of another Chairman,
+the Chairman may veto the Stance. The veto may be overturned with three 
+quarters of the voters. If the jurisdiction is disputed, the Operations Chair
+must present a Stance further defining the jurisdiction.
 
 ## Designation of the Chairmen
 
@@ -74,5 +90,7 @@ only be used to carry out the Stance's goal.
 ### Chairman of Expansion
 
 ## Recourse of a Stanceless Decision
+
+Should a decision need to be made, and a Stance is not available,
 
 ## Revokation of a Stance
